@@ -19,6 +19,6 @@ public class HelloController {
 
     @GetMapping("/count")
     public String count(String name) {
-        return name + ": " + helloService.countOf(name);
+        return name + ":: " + helloService.countOf(name);
     }
 }
