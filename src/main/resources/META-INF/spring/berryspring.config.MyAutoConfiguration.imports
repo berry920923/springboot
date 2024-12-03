@@ -1,0 +1,6 @@
+berryspring.config.autoconfig.DataSourceConfig
+berryspring.config.autoconfig.PropertyPostProcessorConfig
+berryspring.config.autoconfig.PropertyPlaceholderConfig
+berryspring.config.autoconfig.TomcatWebServerConfig
+berryspring.config.autoconfig.JettyWebServerConfig
+berryspring.config.autoconfig.DispatcherServletConfig
